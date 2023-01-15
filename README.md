@@ -7,10 +7,10 @@ I'm also a big believer in nurturing and empowering communities, which is why I 
 Of course, to love coding means to love learning. I am a currently on the Data Analysis track through [Launchcode](https://www.launchcode.org), set to graduate in June of 2023. Last year, I became proficient in Javascript through the [100Devs program](https://leonnoel.com/100devs/). This year, Launchcode is teaching me Python, SQL, and Tableau!
 
 2023 goals:
-*Daily Codewars challenge in javascript and python
-*Attend lots of networking events, maybe a conference or two
-*Help more local business owners create beautiful, functional websites
-*Full-time employment
+-Daily Codewars challenge in javascript and python
+-Attend lots of networking events, maybe a conference or two
+-Help more local business owners create beautiful, functional websites
+-Full-time employment
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alexeherron)](https://git.io/streak-stats)
 <!--
