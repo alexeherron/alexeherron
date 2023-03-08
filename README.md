@@ -27,3 +27,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Here are some of my recent projects:
+![](https://github.com/alexeherron/calicocoffee/blob/main/calico.gif)
+[Calico Coffee](https://calicocoffee.netlify.app/)
+
+![](https://github.com/alexeherron/parallax/blob/main/spacehopping.gif)
+[Space Hopping](https://space-hopping.netlify.app/)
+
+![](https://github.com/alexeherron/daycare1/blob/main/meadowlark.gif)
+[Meadowlark Schoolhouse](https://meadowlark-schoolhouse.netlify.app/)
