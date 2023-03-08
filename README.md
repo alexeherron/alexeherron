@@ -31,4 +31,6 @@ Here is one of my recent projects:
 
 
 ![](https://github.com/alexeherron/calicocoffee/blob/main/calico.gif)
+
+
 [Calico Coffee](https://calicocoffee.netlify.app/)
