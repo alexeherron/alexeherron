@@ -4,7 +4,7 @@ I'm Alex, a software engineer with a passion for creativity and solving puzzles,
 
 I'm also a big believer in nurturing and empowering communities, which is why I volunteer as the Co-director of [Coding & Cocktails](https://codingandcocktails.kcwomenintech.org/), an introductory programming series for women, complete with custom crafted cocktails.
 
-Of course, to love coding means to love learning. I am a currently on the Data Analysis track through [Launchcode](https://www.launchcode.org), set to graduate in June of 2023. Last year, I became proficient in Javascript through the [100Devs program](https://leonnoel.com/100devs/). This year, Launchcode is teaching me Python, SQL, and Tableau!
+Of course, to love coding means to love learning. I am currently on the Data Analysis track through [Launchcode](https://www.launchcode.org), set to graduate in June of 2023. Last year, I became proficient in Javascript through the [100Devs program](https://leonnoel.com/100devs/). This year, Launchcode is teaching me Python, SQL, and Tableau!
 
 2023 goals:
 - Daily Codewars challenge in javascript and python
