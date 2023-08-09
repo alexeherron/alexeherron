@@ -12,7 +12,8 @@ Of course, to love coding means to love learning. I am currently on the Data Ana
 - Help more local business owners create beautiful, functional websites
 - Full-time employment
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alexeherron)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alexeherron&theme=neon)](https://git.io/streak-stats)
+
 <!--
 **alexeherron/alexeherron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
