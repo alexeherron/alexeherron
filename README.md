@@ -6,10 +6,9 @@ I'm also a big believer in nurturing and empowering communities, which is why I 
 
 
 2023 goals:
-- Daily Codewars challenge in javascript or python
+- Daily coding challenge in javascript or python
 - Attend lots of networking events, maybe a conference or two
 - Help more local business owners create beautiful, functional websites
-- Full-time employment
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alexeherron&theme=neon)](https://git.io/streak-stats)
 
